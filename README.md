@@ -1,2 +1,1 @@
-# euamomeuirmao
-Ramon é foda
+# Fiz pra zoar um amigo meu.
